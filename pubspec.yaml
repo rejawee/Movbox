@@ -1,0 +1,16 @@
+
+name: movbox
+description: A simple MovieBox Pro-like app with live stream.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  better_player: ^0.0.83
+
+flutter:
+  uses-material-design: true
